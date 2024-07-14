@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="https://c0.klipartz.com/pngpicture/318/371/gratis-png-espn-television-espn-video-de-alta-definicion-extra-lam-radio-hd.png" group-title="DEPORTES",ESPN HD
+#EXTSIZE: Medium
+#EXTBG: #11609e
+https://golazohd.com/online/canal.php?stream=espn
+#EXTINF:-1 tvg-id="TELEFE HD" tvg-name="TELEFE HD" tvg-logo="https://w7.pngwing.com/pngs/645/638/png-transparent-television-publica-argentina-television-in-argentina-telefe-argentine-television-logo-argentina.png" group-title="NOTICIAS",TELEFE HD
+#EXTSIZE: Medium
+#EXTBG: #11609e
+https://tiogol.com/?stream=telefe
